@@ -1,0 +1,40 @@
+h1 {
+    color: rgb(26, 161, 37);
+    text-align: center;
+    font-size: 100px;
+}
+
+h1:hover {
+    color: rgb(0, 110, 255);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img:hover {
+    box-shadow: 0 0 20px rgba(9, 82, 82, 0.349);
+}
+
+p {
+    font-size: 25px;
+    color: green;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+p:hover {
+    font-size: 32px
+}
+
+h2 {+
+    color: green;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
