@@ -15,7 +15,7 @@ img {
 }
 
 img:hover {
-    box-shadow: 0 0 20px rgba(9, 82, 82, 0.349);
+    box-shadow: 0 0 50px rgba(9, 82, 82, 0.349);
 }
 
 p {
@@ -38,3 +38,14 @@ h2 {+
     text-align: center;
     font-size: 25px;
     font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.img2:hover {
+    box-shadow: 0 0 50px yellow;
+
+}
+
+h2:hover {
+    font-size: 32px;}
